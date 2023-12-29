@@ -1,8 +1,36 @@
 #mainbody {
-    margin: 60px; /* Assign margin to the mainbody */
+    margin: 50px; /* Assign margin to the mainbody */
+    border-color: black;
+    border-radius: 50%;
 }
 
 img {
     float: right; /* Align the image to the right */
 
+}
+
+#entireBody{
+    background-color: antiquewhite;
+
+}
+
+.companyName{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.responsibilities{
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subheadline1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.description{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.dates{
+    font-family: Arial, Helvetica, sans-serif;
 }
